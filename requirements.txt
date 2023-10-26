@@ -1,0 +1,10 @@
+transformers
+opencv-python
+pydub
+easy_ernie
+pillow
+edge_tts
+SpeechRecognition
+pyaudio
+soundfile
+openai-whisper
